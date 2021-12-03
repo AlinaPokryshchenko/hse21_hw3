@@ -1,7 +1,7 @@
 # hse21_hw3
 ## Ссылки на GoogleColab
 ### Python
-### https://colab.research.google.com/drive/117Zoy_chcI2rHtknPZe-B_KFFhtItqHH?usp=sharing
+### https://colab.research.google.com/drive/1ZAOdRGiXZDXl9OKRY_0zndGnGppEFSLf?usp=sharing
 ### R
 ### https://colab.research.google.com/drive/19lxcm96Tu_0xX_7NmTO5X3Z3PpmZGcIa?usp=sharing
 
@@ -26,10 +26,11 @@
 
 <img width="825" alt="Снимок экрана 2021-12-03 в 12 56 19" src="https://user-images.githubusercontent.com/60029586/144583037-e9670756-4fdf-4725-93cc-c1ac53b33d20.png">
 
-## Наиболее значимо дифференциально экспрессированные гены
-
-<img width="818" alt="Снимок экрана 2021-12-03 в 23 38 15" src="https://user-images.githubusercontent.com/60029586/144669718-37019183-ea9f-41e8-bf2f-3fe43e400f33.png">
-<img width="821" alt="Снимок экрана 2021-12-03 в 23 38 30" src="https://user-images.githubusercontent.com/60029586/144669757-c44c2e28-cc1b-4b01-9aa8-8893808d8a9e.png">
-<img width="822" alt="Снимок экрана 2021-12-03 в 23 39 05" src="https://user-images.githubusercontent.com/60029586/144669817-d46ec055-3fcb-4c09-b64d-f382d655b1c8.png">
-
+## 
+![Screenshot](4.png)
+![Screenshot](5.png)
+![Screenshot](6.png)
+![Screenshot](7.png)
+![Screenshot](8.png)
+![Screenshot](9.png)
 
