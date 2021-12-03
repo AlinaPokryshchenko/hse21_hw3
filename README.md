@@ -28,8 +28,8 @@
 
 ## Наиболее значимо дифференциально экспрессированные гены
 
-<img width="826" alt="Снимок экрана 2021-12-03 в 12 57 11" src="https://user-images.githubusercontent.com/60029586/144583156-1da8f9fb-1cb4-436f-84c1-1088adcff090.png">
-<img width="826" alt="Снимок экрана 2021-12-03 в 12 57 27" src="https://user-images.githubusercontent.com/60029586/144583220-5aad92b2-65f9-45d9-ae3f-8484a74f417b.png">
-<img width="827" alt="Снимок экрана 2021-12-03 в 12 58 22" src="https://user-images.githubusercontent.com/60029586/144583368-ab3d106d-8ef8-4199-8e8c-9c40b46c3ef7.png">
-<img width="823" alt="Снимок экрана 2021-12-03 в 12 58 41" src="https://user-images.githubusercontent.com/60029586/144583411-b69ca8f9-ed62-444e-8482-2a37f03fb261.png">
-<img width="827" alt="Снимок экрана 2021-12-03 в 12 59 00" src="https://user-images.githubusercontent.com/60029586/144583457-2c00d675-10b0-48e9-a6ee-a743d9108845.png">
+<img width="818" alt="Снимок экрана 2021-12-03 в 23 38 15" src="https://user-images.githubusercontent.com/60029586/144669718-37019183-ea9f-41e8-bf2f-3fe43e400f33.png">
+<img width="821" alt="Снимок экрана 2021-12-03 в 23 38 30" src="https://user-images.githubusercontent.com/60029586/144669757-c44c2e28-cc1b-4b01-9aa8-8893808d8a9e.png">
+<img width="822" alt="Снимок экрана 2021-12-03 в 23 39 05" src="https://user-images.githubusercontent.com/60029586/144669817-d46ec055-3fcb-4c09-b64d-f382d655b1c8.png">
+
+
