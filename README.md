@@ -15,7 +15,8 @@
 <img width="828" alt="Снимок экрана 2021-12-03 в 12 28 34" src="https://user-images.githubusercontent.com/60029586/144578967-b5f4443a-e770-49cc-8869-8c2622487f91.png">
 
 # Статистика по каждому из 6-ти образцов
-# таблица
+<img width="825" alt="Снимок экрана 2021-12-03 в 23 16 22" src="https://user-images.githubusercontent.com/60029586/144667258-6cb18cbd-0f89-4ad7-9a70-567149c2a564.png">
+
 
 # Результаты DESeq
 ## MA plot
