@@ -13,12 +13,18 @@
 <img width="828" alt="Снимок экрана 2021-12-03 в 12 27 48" src="https://user-images.githubusercontent.com/60029586/144578864-e7a6f88f-f278-460d-9390-01906eeb076b.png">
 <img width="828" alt="Снимок экрана 2021-12-03 в 12 28 08" src="https://user-images.githubusercontent.com/60029586/144578916-158143e1-fea0-4640-9fc2-4b4aa3486d50.png">
 <img width="828" alt="Снимок экрана 2021-12-03 в 12 28 34" src="https://user-images.githubusercontent.com/60029586/144578967-b5f4443a-e770-49cc-8869-8c2622487f91.png">
+
 # Результаты DESeq
 ## MA plot
+
 <img width="827" alt="Снимок экрана 2021-12-03 в 12 55 25" src="https://user-images.githubusercontent.com/60029586/144582913-fbf84970-4cdb-4514-bc56-54448fb4557c.png">
+
 ## Pheat map 
+
 <img width="825" alt="Снимок экрана 2021-12-03 в 12 56 19" src="https://user-images.githubusercontent.com/60029586/144583037-e9670756-4fdf-4725-93cc-c1ac53b33d20.png">
+
 ## Образцы
+
 <img width="826" alt="Снимок экрана 2021-12-03 в 12 57 11" src="https://user-images.githubusercontent.com/60029586/144583156-1da8f9fb-1cb4-436f-84c1-1088adcff090.png">
 <img width="826" alt="Снимок экрана 2021-12-03 в 12 57 27" src="https://user-images.githubusercontent.com/60029586/144583220-5aad92b2-65f9-45d9-ae3f-8484a74f417b.png">
 <img width="827" alt="Снимок экрана 2021-12-03 в 12 58 22" src="https://user-images.githubusercontent.com/60029586/144583368-ab3d106d-8ef8-4199-8e8c-9c40b46c3ef7.png">
