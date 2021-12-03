@@ -3,7 +3,7 @@
 ### Python
 ### https://colab.research.google.com/drive/117Zoy_chcI2rHtknPZe-B_KFFhtItqHH?usp=sharing
 ### R
-### https://colab.research.google.com/drive/15XTLZ7xmTGR55LBHgYy67FYIwtOgNu-f?usp=sharing
+### https://colab.research.google.com/drive/19lxcm96Tu_0xX_7NmTO5X3Z3PpmZGcIa?usp=sharing
 # Статистика по образцам (таблица)
 
 # Статистика MultiQC 
@@ -14,6 +14,9 @@
 <img width="828" alt="Снимок экрана 2021-12-03 в 12 28 08" src="https://user-images.githubusercontent.com/60029586/144578916-158143e1-fea0-4640-9fc2-4b4aa3486d50.png">
 <img width="828" alt="Снимок экрана 2021-12-03 в 12 28 34" src="https://user-images.githubusercontent.com/60029586/144578967-b5f4443a-e770-49cc-8869-8c2622487f91.png">
 
+# Статистика по каждому из 6-ти образцов
+# таблица
+
 # Результаты DESeq
 ## MA plot
 
@@ -23,7 +26,7 @@
 
 <img width="825" alt="Снимок экрана 2021-12-03 в 12 56 19" src="https://user-images.githubusercontent.com/60029586/144583037-e9670756-4fdf-4725-93cc-c1ac53b33d20.png">
 
-## Образцы
+## Наиболее значимо дифференциально экспрессированные гены
 
 <img width="826" alt="Снимок экрана 2021-12-03 в 12 57 11" src="https://user-images.githubusercontent.com/60029586/144583156-1da8f9fb-1cb4-436f-84c1-1088adcff090.png">
 <img width="826" alt="Снимок экрана 2021-12-03 в 12 57 27" src="https://user-images.githubusercontent.com/60029586/144583220-5aad92b2-65f9-45d9-ae3f-8484a74f417b.png">
