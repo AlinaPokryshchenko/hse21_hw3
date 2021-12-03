@@ -4,7 +4,6 @@
 ### https://colab.research.google.com/drive/117Zoy_chcI2rHtknPZe-B_KFFhtItqHH?usp=sharing
 ### R
 ### https://colab.research.google.com/drive/19lxcm96Tu_0xX_7NmTO5X3Z3PpmZGcIa?usp=sharing
-# Статистика по образцам (таблица)
 
 # Статистика MultiQC 
 <img width="829" alt="Снимок экрана 2021-12-03 в 12 26 04" src="https://user-images.githubusercontent.com/60029586/144578631-b9620b6a-1cc3-4968-bae2-2ecd40870761.png">
